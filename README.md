@@ -1,5 +1,5 @@
 # privacy-policy
-Privacy Policy of Naneping
+Privacy Policy of Nanegate Products
 In order to receive information about your Personal Data, the purposes and the parties the Data is shared with, contact the Owner.
 
 Owner and Data Controller
