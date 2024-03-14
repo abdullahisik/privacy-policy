@@ -1,0 +1,43 @@
+App: Plide Photo Enhancer
+
+App Function: Enhances photos
+
+Data Processing:
+
+The app takes your photos encrypted.
+Encrypted photos are first stored in a Key-Value Store.
+Another server listens to and retrieves the data in the Key-Value Store.
+The server processes the photos to enhance them.
+After processing is complete, the photos and all related data are deleted.
+Data Viewing by Users:
+
+Users cannot view the photos or data processed by the app.
+Data Storage:
+
+The app does not permanently store your photos or any related data.
+All data is deleted immediately after processing is complete.
+Third Party Services:
+
+The app uses a third-party server to enhance photos.
+This server can only access the data necessary to enhance the photos.
+The server cannot use or share the data for any other purpose.
+Security:
+
+The app uses security measures such as encryption and secure data transfer protocols.
+These measures help protect your data from unauthorized access, use, or disclosure.
+Children:
+
+The app is not designed for children under 13.
+Parents should read the privacy policy before allowing their children to use this app.
+Contact:
+
+For questions or concerns about the privacy policy, please contact us at [email address].
+Changes:
+
+We reserve the right to change this privacy policy at any time.
+Changes will be updated on this page when they go into effect.
+Conclusion:
+
+The Plide Photo Enhancer app allows users to enhance their photos securely and privately. The app only stores data temporarily and deletes it immediately after processing is complete. Users cannot view the photos or data processed by the app.
+
+Note: This text is for informational purposes only and should not be considered legal advice. It is recommended that you consult with an attorney before creating a privacy policy for your app.
